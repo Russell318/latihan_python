@@ -1,0 +1,14 @@
+{
+  "Daging": [
+    {"id": 1, "nama": "Daging Sapi", "harga": 40000},
+    {"id": 2, "nama": "Daging Ayam", "harga": 15000},
+    {"id": 3, "nama": "Daging Kambing", "harga": 30000}
+  ],
+  "Ikan": [
+    {"id": 4, "nama": "Ikan Salmon", "harga": 25000},
+    {"id": 5, "nama": "Ikan Tuna", "harga": 30000},
+    {"id": 6, "nama": "Ikan Lele", "harga": 11000}
+  ]
+}
+
+    
